@@ -23,3 +23,6 @@ I am [Erik van Kempen](http://nl.linkedin.com/in/evankempen), a lecturer in Stat
 ## References ##
 1. Haff, G. Gregory, et al. "Force-Time Dependent Characteristics of Dynamic and Isometric Muscle Actions." The Journal of Strength & Conditioning Research 11.4 (1997): 269-272.
 2. Valle, Carl "Complete Guide to Bar Speed Trackers." April 8, 2015 (http://strengtheory.com/complete-guide-to-bar-speed-trackers/)
+3. Cronin JB, McNair PJ, and Marshall RN. Force-velocity analysis of strength-training techniques and load: implications for training strategy and research. Journal of strength and conditioning research / National Strength & Conditioning Association 17: 148-155, 2003.
+4. González-Badillo JJ and Sánchez-Medina L. Movement velocity as a measure of loading intensity in resistance training. International journal of sports medicine 31: 347-352, 2010.
+5. Jandacka D, Beremlijski, P. Determination of Strength Exercise Intensities Based on the Load-Power-Velocity Relationship. Journal of Human Kinetics: 11, 2011.
